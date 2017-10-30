@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TODO-List</string>
+    <string name="addButton">Add</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="add_button_text">Insert</string>
+    <string name="insert_title">insert title here</string>
+    <string name="insert_description">insert description here</string>
+    <string name="delete_button">Done</string>
+    <string name="add_button">Add</string>
+
+
+</resources>
